@@ -3,4 +3,5 @@ import { counterReducer } from "./counterReducer";
 
 export const reducer = combineReducers({
     counter: counterReducer,
+    newb: fasdfareducer,
 });
